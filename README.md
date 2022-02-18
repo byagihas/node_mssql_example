@@ -6,8 +6,8 @@ Simple template to connect to ms sql db and run queries on node.
 
 ### Executing program
 
-* How to run the program
-Edit config db details in example.js then run:
+* Edit config db details in example.js then run:
+
 ```
 npm install
 ```
