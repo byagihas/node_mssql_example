@@ -2,10 +2,6 @@
 
 Simple template to connect to ms sql db and run queries on node.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
 
 ### Executing program
